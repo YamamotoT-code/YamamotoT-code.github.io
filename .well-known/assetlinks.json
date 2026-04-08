@@ -1,0 +1,22 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.yamamototcode.partin_japan",
+      "sha256_cert_fingerprints": [
+        "44:CE:C8:41:BD:2D:B5:8B:82:CA:C2:2B:D7:59:07:12:36:50:3F:30:48:22:47:C4:8B:81:B0:D3:C6:C8:61:B8"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.yamamototcode.bed_eqd2",
+      "sha256_cert_fingerprints": [
+        "8F:A9:70:E5:08:5F:7A:9D:15:A0:E7:6D:A9:76:9F:30:F9:19:F3:49:2B:2C:94:8D:BD:FD:BC:FC:15:99:86:37"
+      ]
+    }
+  }
+]

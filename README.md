@@ -1,1 +1,0 @@
-# YamamotoT-code.github.io
